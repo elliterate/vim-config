@@ -11,3 +11,6 @@ nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>""
 " File tree browser
 map \          :NERDTreeToggle<CR>
 map \|         :NERDTreeFind<CR>
+
+" Comment/un-comment
+map <leader>/  <plug>NERDCommenterToggle
