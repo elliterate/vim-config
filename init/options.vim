@@ -23,6 +23,7 @@ set splitright                  " Add new windows towards the right
 set splitbelow                  " ... and bottom
 set scrolloff=3                 " Scroll when the cursor is 3 lines from edge
 set cursorline                  " Highlight current line
+set nofoldenable                " Disable folding
 
 set laststatus=2                " Always show statusline
 
