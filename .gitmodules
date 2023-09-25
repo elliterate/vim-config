@@ -85,3 +85,6 @@
 [submodule "bundle/dockerfile.vim"]
 	path = bundle/dockerfile.vim
 	url = https://github.com/ekalinin/dockerfile.vim.git
+[submodule "bundle/vim-elixir"]
+	path = bundle/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir.git
