@@ -88,3 +88,6 @@
 [submodule "bundle/vim-elixir"]
 	path = bundle/vim-elixir
 	url = https://github.com/elixir-editors/vim-elixir.git
+[submodule "bundle/vim-fetch"]
+	path = bundle/vim-fetch
+	url = https://github.com/wsdjeg/vim-fetch.git
